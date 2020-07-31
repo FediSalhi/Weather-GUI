@@ -8,7 +8,7 @@ pip install Pillow
 ### Running 
 The project consists of a main script "main.py" and a parameters script "parameters.py". 
 * main.py: contains the main Tkinter window with its widgets (Buttons, Labels, Entries...) and some other functions.
-* paramters.py : contains the main parameter of the GUI such as size, title ...
+* paramters.py : contains the main parameter of the GUI such as size, title.
 Running the main script will launch the GUI as shown in the figures below:
 
 
